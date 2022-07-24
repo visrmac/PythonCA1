@@ -6,3 +6,4 @@ Customers can contact us or ask inquiries by completing a short form. There are 
 Finally, the buyer may view their order summary on the checkout page before placing their order, which is crucial. Last but not least, clients must complete the checkout information, which includes the precise address, city, zip code, etc., as well as their preferred payment method. Customers can then place their orders at that point (payment.html).
 By selecting the shopping cart icon in the navigation bar, customers can see everything they have put in their cart. The users can then alter the item's amount based on their need (cart.html).
 JavaScript is used in the add to cart buttons and in the payment session for the payment option to work. JavaScript also used to display the card details.
+Vishnu Ramesh
